@@ -11,5 +11,5 @@ plugins {
 }
 
 application {
-    mainClass = 'GitTeste.App'
+    mainClass = 'GitTeste.HelloWorld'
 }
