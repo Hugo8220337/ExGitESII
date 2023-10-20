@@ -6,10 +6,10 @@
  */
 
 plugins {
-    id 'java'
+    id 'java'   
     id 'application'
 }
 
 application {
-    mainClass = 'GitTeste.App'
+    mainClass = 'GitTeste.HelloWorld'
 }
